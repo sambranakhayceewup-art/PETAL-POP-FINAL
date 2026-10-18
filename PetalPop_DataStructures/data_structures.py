@@ -12,7 +12,6 @@ LAYOUTS = {'1x4': (1, 4), '2x4': (2, 4), '2x3': (2, 3),
 
 
 class LinkedPhotoOrder:
-    """Singly linked list: append, remove, traverse photo IDs in capture order."""
     class Node:
         def __init__(self, value):
             self.value, self.next = value, None

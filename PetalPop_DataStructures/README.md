@@ -1,7 +1,3 @@
-# 🎀 PetalPop — Python Data Structures Photobooth
-
-A mobile-friendly Flask photobooth that **actually uses five Python data structures** in its normal workflow. The browser must still use JavaScript for camera access, Safari-compatible filters, touch stickers, countdowns and drawing; Python powers the session, capture/retake records, edit history, and print processing. It is not a Python-only browser app.
-
 ## Data structures and how to demonstrate them
 
 | Structure | File | Real operation |
